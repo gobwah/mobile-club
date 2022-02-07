@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mobile-club/static/css/main.90aebdff.css",
+    "main.js": "/mobile-club/static/js/main.8861ee43.js",
+    "index.html": "/mobile-club/index.html",
+    "main.90aebdff.css.map": "/mobile-club/static/css/main.90aebdff.css.map",
+    "main.8861ee43.js.map": "/mobile-club/static/js/main.8861ee43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90aebdff.css",
+    "static/js/main.8861ee43.js"
+  ]
+}
