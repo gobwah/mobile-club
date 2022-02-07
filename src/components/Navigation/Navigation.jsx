@@ -4,10 +4,10 @@ import { Wrapper } from './Navigation.styles';
 const Navigation = () => {
   return (
     <Wrapper>
-      <a href="/">Nos smartphones</a>
-      <a href="/">Vos questions</a>
-      <a href="/">Entreprise</a>
-      <a href="/" className="login">
+      <a href={document.location.pathname}>Nos smartphones</a>
+      <a href={document.location.pathname}>Vos questions</a>
+      <a href={document.location.pathname}>Entreprise</a>
+      <a href={document.location.pathname} className="login">
         <MdStars size="30px" />
         Espace membre
       </a>
