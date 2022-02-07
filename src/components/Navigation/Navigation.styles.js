@@ -29,7 +29,9 @@ export const Wrapper = styled.nav`
       }
     }
 
-    &:visited {
+    &:visited,
+    &:active,
+    &:any-link {
       color: white;
     }
   }
