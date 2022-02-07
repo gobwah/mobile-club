@@ -1,13 +1,18 @@
 {
   "files": {
     "main.css": "/mobile-club/static/css/main.90aebdff.css",
-    "main.js": "/mobile-club/static/js/main.8861ee43.js",
+    "main.js": "/mobile-club/static/js/main.6a131a55.js",
+    "static/media/iphone11_640x640.png": "/mobile-club/static/media/iphone11_640x640.ab0dcfb471e8aca99622.png",
+    "static/media/iphone8_384x505.png": "/mobile-club/static/media/iphone8_384x505.4007649b1842c8b7785c.png",
+    "static/media/iphoneX_376x406.png": "/mobile-club/static/media/iphoneX_376x406.a6e1606eb5ff8a1022b1.png",
+    "static/media/galaxyS9+_428x402.png": "/mobile-club/static/media/galaxyS9+_428x402.b4e4b7e305e9f5907331.png",
+    "static/media/logo.svg": "/mobile-club/static/media/logo.6bf16d3bd46b1973bb729f3cf9471975.svg",
     "index.html": "/mobile-club/index.html",
     "main.90aebdff.css.map": "/mobile-club/static/css/main.90aebdff.css.map",
-    "main.8861ee43.js.map": "/mobile-club/static/js/main.8861ee43.js.map"
+    "main.6a131a55.js.map": "/mobile-club/static/js/main.6a131a55.js.map"
   },
   "entrypoints": [
     "static/css/main.90aebdff.css",
-    "static/js/main.8861ee43.js"
+    "static/js/main.6a131a55.js"
   ]
 }
